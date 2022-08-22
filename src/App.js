@@ -1,9 +1,10 @@
 import GlobalStyles from '~/globalStyles';
+import MainLayout from './layouts/MainLayout';
 
 function App() {
   return (
     <GlobalStyles>
-      <div className="App">thnah cong</div>
+      <MainLayout />
     </GlobalStyles>
   );
 }
