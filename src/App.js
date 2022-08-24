@@ -1,12 +1,8 @@
-import GlobalStyles from '~/globalStyles';
-import MainLayout from './layouts/MainLayout';
+import { GlobalStyles } from './globalStyles';
+import LoginPage from '~/pages/LoginPage';
 
 function App() {
-  return (
-    <GlobalStyles>
-      <MainLayout />
-    </GlobalStyles>
-  );
+  return <LoginPage className={GlobalStyles} />;
 }
 
 export default App;
