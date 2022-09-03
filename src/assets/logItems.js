@@ -1,19 +1,19 @@
 const logItems = [
   {
-    flag: 'new',
+    flag: 'New',
     title:
       'Automatically send your Bonsai invoices to QuickBooks Online (US only)',
     decription:
       'Keep your accounting synced between Bonsai and QuickBooks with the new QuickBooks Online...',
   },
   {
-    flag: 'new',
+    flag: 'New',
     title: 'A new client forms experience.',
     decription:
       ' You can now create client forms and surveys, no matter which plan you are on. The forms also...',
   },
   {
-    flag: 'new',
+    flag: 'New',
     title: 'A new client payment experience.',
     decription:
       ' In your invoice settings, you can now pick “Simplified payment page”. Instead of seeing the...',
